@@ -38,3 +38,6 @@ https://www.omgubuntu.co.uk/2016/12/21-must-have-apps-ubuntu
 - ULauncher
 
 ### VSCode
+
+### Zoom
+https://www.how2shout.com/linux/install-zoom-meeting-client-on-linux-ubuntu-20-04-lts/
