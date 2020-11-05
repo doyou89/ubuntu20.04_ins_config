@@ -21,4 +21,20 @@ https://kibua20.tistory.com/40 참고
 - https://seonghyuk.tistory.com/11 을 참고해서 nouveau을 비활성화 한다.
 - https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-20-04-focal-fossa-linux 을 참고해서 nvidia driver를 설치한다.
 
+## Korean Setting
 
+### UIM 한글입력기 설치&설정
+- https://kibua20.tistory.com/50 참고
+- 위에서 한글키 입력 안될때, https://ghostweb.tistory.com/982 참고
+
+## Install Apps
+
+### Modern Linux 명령어
+https://velog.io/@kameals/modern-linux-command
+
+### Best Ubuntu Apps
+https://www.omgubuntu.co.uk/2016/12/21-must-have-apps-ubuntu
+- GNOME Tweaks
+- ULauncher
+
+### VSCode
